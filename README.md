@@ -5,6 +5,7 @@ Abrí `index.html` en un navegador moderno para practicar. No necesita instalaci
 ## Funciones
 
 - Tandas de hasta diez preguntas, por tema/origen/fuente; prioridad a las no vistas.
++- Selección completa: todas las preguntas evaluables de los filtros en una sola tanda; también desde la búsqueda del banco. El origen «Parciales y HTML» permite practicar las 43 evaluables juntas.
 - Corrección inmediata al confirmar y coincidencia exacta en selección múltiple.
 - Refuerzo global de errores, con dos aciertos consecutivos para retirar un pendiente.
 - Banco consultable, búsqueda sin distinguir tildes, explicaciones y referencias.

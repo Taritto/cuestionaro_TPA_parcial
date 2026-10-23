@@ -1,6 +1,6 @@
 # Informe de cobertura — IoT y ESP32
 
-Banco 2026.10.23.1. 322 preguntas: 47 originales o variantes y 275 nuevas. 318 evaluables y 4 de consulta sin puntaje.
+Banco 2026.10.23.2. 322 preguntas: 47 originales o variantes y 275 nuevas. 318 evaluables y 4 de consulta sin puntaje.
 
 ## Conciliación de fuentes
 
